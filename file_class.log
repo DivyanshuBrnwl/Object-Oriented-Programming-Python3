@@ -1,0 +1,35 @@
+2023-05-14 12:05:18,944 INFO This search method inside ListSearch Class
+2023-05-14 12:07:29,705 INFO This search method inside ListSearch Class
+2023-05-14 12:07:29,705 INFO No, Text is not present in the list
+2023-05-14 12:07:29,705 INFO No, Text is not present in the list
+2023-05-14 12:07:29,705 INFO No, Text is not present in the list
+2023-05-14 12:07:29,705 INFO No, Text is not present in the list
+2023-05-14 12:07:29,706 INFO No, Text is not present in the list
+2023-05-14 12:07:29,706 INFO No, Text is not present in the list
+2023-05-14 12:09:19,988 INFO This search method inside ListSearch Class
+2023-05-14 12:09:49,244 INFO This search method inside ListSearch Class
+2023-05-14 12:12:11,741 INFO This search method inside ListSearch Class
+2023-05-14 12:12:11,741 INFO No, Text is not present in the list
+2023-05-14 13:25:54,936 DEBUG diff parser start
+2023-05-14 13:25:54,937 DEBUG line_lengths old: 1; new: 1
+2023-05-14 13:25:54,937 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-14 13:25:54,938 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-14 13:25:54,938 DEBUG diff parser end
+2023-05-14 13:25:55,030 DEBUG pickle loaded: C:\Users\kumar\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-05-14 13:25:55,106 DEBUG pickle loaded: C:\Users\kumar\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-05-14 13:48:47,990 DEBUG diff parser start
+2023-05-14 13:48:47,991 DEBUG line_lengths old: 1; new: 6
+2023-05-14 13:48:47,991 DEBUG -> code[replace] old[1:1] new[1:6]
+2023-05-14 13:48:47,992 DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2023-05-14 13:48:47,992 DEBUG diff parser end
+2023-05-14 13:48:51,720 DEBUG diff parser start
+2023-05-14 13:48:51,721 DEBUG line_lengths old: 6; new: 6
+2023-05-14 13:48:51,721 DEBUG -> code[equal] old[1:5] new[1:5]
+2023-05-14 13:48:51,723 DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2023-05-14 13:48:51,723 DEBUG -> code[replace] old[6:6] new[6:6]
+2023-05-14 13:48:51,723 DEBUG diff parser end
+2023-05-14 13:54:23,197 DEBUG diff parser start
+2023-05-14 13:54:23,198 DEBUG line_lengths old: 6; new: 1
+2023-05-14 13:54:23,198 DEBUG -> code[replace] old[1:6] new[1:1]
+2023-05-14 13:54:23,199 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-14 13:54:23,199 DEBUG diff parser end
